@@ -31,7 +31,7 @@ function Formulario() {
         <input 
         className='bg-indigo-500 w-full text-white p-3 font-bold uppercase hover:bg-indigo-700 cursor-pointer transition-all'
         type="submit"
-        value="Agregar paciente" />
+        value="Agregar paciente aquí" />
       </form>
     </div>
   )

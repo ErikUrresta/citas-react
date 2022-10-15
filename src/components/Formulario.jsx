@@ -33,9 +33,7 @@ function Formulario() {
         type="submit"
         value="Agregar paciente" />
       </form>
-
     </div>
-    
   )
 }
 
